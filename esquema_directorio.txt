@@ -1,0 +1,36 @@
+- .gitignore
+- data
+  - desktop.ini
+  - external
+    - desktop.ini
+  - processed
+    - desktop.ini
+  - raw
+    - desktop.ini
+- desktop.ini
+- main.py
+- notebooks
+  - desktop.ini
+- README.md
+- requirements.txt
+- src
+  - data
+    - desktop.ini
+    - load_data.py
+    - preprocess.py
+  - desktop.ini
+  - features
+    - build_features.py
+    - desktop.ini
+  - models
+    - desktop.ini
+    - evaluate_model.py
+    - train_model.py
+  - utils
+    - desktop.ini
+    - helper_functrions.py
+  - visualization
+    - desktop.ini
+    - visualize.py
+- tests
+  - desktop.ini
